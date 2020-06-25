@@ -1,0 +1,10 @@
+D:\repos\SpeedCheker\SpeedCheker\obj\Debug\SpeedCheker.Form1.resources
+D:\repos\SpeedCheker\SpeedCheker\obj\Debug\SpeedCheker.Properties.Resources.resources
+D:\repos\SpeedCheker\SpeedCheker\obj\Debug\SpeedCheker.csproj.GenerateResource.cache
+D:\repos\SpeedCheker\SpeedCheker\obj\Debug\SpeedCheker.csproj.CoreCompileInputs.cache
+D:\repos\SpeedCheker\SpeedCheker\bin\Debug\SpeedCheker.exe.config
+D:\repos\SpeedCheker\SpeedCheker\bin\Debug\SpeedCheker.exe
+D:\repos\SpeedCheker\SpeedCheker\bin\Debug\SpeedCheker.pdb
+D:\repos\SpeedCheker\SpeedCheker\obj\Debug\SpeedCheker.exe
+D:\repos\SpeedCheker\SpeedCheker\obj\Debug\SpeedCheker.pdb
+D:\repos\SpeedCheker\SpeedCheker\obj\Debug\SpeedCheker.help1.resources
